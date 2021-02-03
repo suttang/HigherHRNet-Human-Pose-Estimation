@@ -269,3 +269,14 @@ If you find this work or code is helpful in your research, please cite:
 }
 ````
 
+
+### Training log
+
+```
+Epoch: [0][0/2672]      Time: 48.017s (48.017s) Speed: 0.2 samples/s    Data: 38.614s (38.614s) Stage0-heatmaps: 1.626e-03 (1.626e-03)  Stage1-heatmaps: 2.626e-04 (2.626e-04)    Stage0-push: 1.666e-04 (1.666e-04)      Stage1-push: 0.000e+00 (0.000e+00)      Stage0-pull: 8.114e-07 (8.114e-07)      Stage1-pull: 0.000e+00 (0.000e+00)
+Epoch: [0][0/2672]      Time: 45.919s (45.919s) Speed: 0.3 samples/s    Data: 41.616s (41.616s) Stage0-heatmaps: 1.650e-03 (1.650e-03)  Stage1-heatmaps: 3.056e-04 (3.056e-04)    Stage0-push: 2.082e-04 (2.082e-04)      Stage1-push: 0.000e+00 (0.000e+00)      Stage0-pull: 2.187e-06 (2.187e-06)      Stage1-pull: 0.000e+00 (0.000e+00)Epoch: [0][100/2672]    Time: 0.636s (1.243s)   Speed: 18.9 samples/s   Data: 0.000s (0.432s)   Stage0-heatmaps: 9.740e-04 (2.162e-03)  Stage1-heatmaps: 2.439e-04 (2.435e-04)    Stage0-push: 3.333e-04 (2.079e-04)      Stage1-push: 0.000e+00 (0.000e+00)      Stage0-pull: 1.073e-08 (3.182e-07)      Stage1-pull: 0.000e+00 (0.000e+00)Epoch: [0][100/2672]    Time: 0.677s (1.222s)   Speed: 17.7 samples/s   Data: 0.000s (0.463s)   Stage0-heatmaps: 8.842e-04 (2.107e-03)  Stage1-heatmaps: 2.204e-04 (2.441e-04)    Stage0-push: 1.667e-04 (2.124e-04)      Stage1-push: 0.000e+00 (0.000e+00)      Stage0-pull: 1.074e-08 (8.517e-07)      Stage1-pull: 0.000e+00 (0.000e+00)
+Epoch: [0][200/2672]    Time: 1.932s (1.069s)   Speed: 6.2 samples/s    Data: 0.000s (0.245s)   Stage0-heatmaps: 1.168e-03 (1.508e-03)  Stage1-heatmaps: 2.964e-04 (2.364e-04)  Stage0-push: 2.500e-04 (2.141e-04)      Stage1-push: 0.000e+00 (0.000e+00)   Stage0-pull: 6.210e-09 (4.304e-07)      Stage1-pull: 0.000e+00 (0.000e+00)
+Epoch: [0][200/2672]    Time: 1.507s (1.080s)   Speed: 8.0 samples/s    Data: 0.000s (0.229s)   Stage0-heatmaps: 6.422e-04 (1.538e-03)  Stage1-heatmaps: 1.614e-04 (2.367e-04)  Stage0-push: 1.667e-04 (2.094e-04)      Stage1-push: 0.000e+00 (0.000e+00)   Stage0-pull: 4.700e-09 (1.623e-07)      Stage1-pull: 0.000e+00 (0.000e+00)
+nvEpoch: [0][300/2672]  Time: 3.103s (1.183s)   Speed: 3.9 samples/s    Data: 0.002s (0.180s)   Stage0-heatmaps: 6.513e-04 (1.332e-03)  Stage1-heatmaps: 1.638e-04 (2.354e-04)  Stage0-push: 1.667e-04 (2.122e-04)      Stage1-push: 0.000e+00 (0.000e+00)   Stage0-pull: 3.585e-09 (1.093e-07)      Stage1-pull: 0.000e+00 (0.000e+00)
+Epoch: [0][300/2672]    Time: 3.233s (1.176s)   Speed: 3.7 samples/s    Data: 0.000s (0.181s)   Stage0-heatmaps: 9.965e-04 (1.305e-03)  Stage1-heatmaps: 2.546e-04 (2.336e-04)  Stage0-push: 2.917e-04 (2.112e-04)      Stage1-push: 0.000e+00 (0.000e+00)   Stage0-pull: 1.516e-09 (2.884e-07)      Stage1-pull: 0.000e+00 (0.000e+00)
+```
